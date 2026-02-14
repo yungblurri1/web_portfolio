@@ -18,6 +18,8 @@
         "name": "next"
       }
     ],
+    // absolute imports and module path aliases
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     }
